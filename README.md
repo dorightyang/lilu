@@ -1,6 +1,6 @@
 # 李录资料整理
 
-本仓库整理李录公开演讲、采访、对谈与相关视频文字稿，参考 [DayDreammy/duan](https://github.com/DayDreammy/duan) 的目录方式组织。
+本仓库整理李录公开演讲、采访、对谈与相关视频文字稿，参考 [dorightyang/duan](https://github.com/dorightyang/duan) 的目录方式组织。
 
 目前仓库只放整理后的终稿与字幕，不放原始视频大文件：
 - `文稿-精校.md`：人工/模型整理后的可读终稿
